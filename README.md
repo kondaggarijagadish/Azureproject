@@ -12,30 +12,30 @@ In this project we are analysing the data throgh azure cloud services. Here we a
 8. Driver code and functionalities is done using python.
 
 ## STEPS TO RUN PROJECT
-1.log in into  microsoft azure or azure databricks account. 
-2.Create sparkSession using spark and load and read the csv file .
-3.copy the code from code.txt from code folder and paste into the databricks platform.
-4.press shift+ enter or run in databricks platform to run the code.
+1. Log in into  microsoft azure or azure databricks account. 
+2. Create sparkSession using spark and load and read the csv file .
+3. Copy the code from code.txt from code folder and paste into the databricks platform.
+4. Press shift+ enter or run in databricks platform to run the code.
 
 ## TOOLS AND TECHNOLOGIES
 
-1.SPARK
-2.PYTHON
-3.PYSPARK 
-4.SPARK SQL 
-5.MICROSOFT AZURE 
-6.AZURE DEVOPS SERVICES
-7.DATABRICKS
-8.DATAFRAMES
-9.Power BI
+1. SPARK
+2. PYTHON
+3. PYSPARK 
+4. SPARK SQL 
+5. MICROSOFT AZURE 
+6. AZURE DEVOPS SERVICES
+7. DATABRICKS
+8. DATAFRAMES
+9. Power BI
 
 ## ROLES AND RESPONSIBILITY
-1.WORKED WITH AZURE DEVOPS SERVICES FOR CONTINIOUS INTEGRATION AND CONTINIOUS DELIVERY.
-2.WROTE YML SCRIPT FOR AUTOMATING  CONTINIOUS DELIVERY.
-3.CREATED VIRTUAL MACHINES AND STORAGE ACCOUNT IN AZURE PLATFORM.
-4.WORKED WITH AZURE DATABRICKS AND ITS VARIOUS COMPUTING SERVICES.
-5.CREATED RESUABLE METHODS FOR GETTING INSIGHTS FROM THE DATASETS USING PYTHON.
-6.CREATED VISUVALS LIKE GRAPHS, CHARTS, AND FLOW DIAGRAMS USING POWER BI.
+1. WORKED WITH AZURE DEVOPS SERVICES FOR CONTINIOUS INTEGRATION AND CONTINIOUS DELIVERY.
+2. WROTE YML SCRIPT FOR AUTOMATING  CONTINIOUS DELIVERY.
+3. CREATED VIRTUAL MACHINES AND STORAGE ACCOUNT IN AZURE PLATFORM.
+4. WORKED WITH AZURE DATABRICKS AND ITS VARIOUS COMPUTING SERVICES.
+5. CREATED RESUABLE METHODS FOR GETTING INSIGHTS FROM THE DATASETS USING PYTHON.
+6. CREATED VISUVALS LIKE GRAPHS, CHARTS, AND FLOW DIAGRAMS USING POWER BI.
 
 ### CONTRIBUTORS
-1.Ravalika.U
+* Ravalika.U
