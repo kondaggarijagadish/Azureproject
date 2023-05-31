@@ -1,4 +1,3 @@
-# Azureproject
 # The Exchange Room
 In this project we are analysing the data throgh azure cloud services. Here we are performing operations on databricks workspace on azure.After analysing the data we are implementing the power Bi for visualization of data. finally In this project we are connected azure devops services from azure platform for implementing CI/CD pipelines for implementing and deployement purpose.
 
